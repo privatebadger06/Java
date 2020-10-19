@@ -44,6 +44,6 @@ public class IntegerToRoman {
     }
 
     public static void main(String[] args) {
-        System.out.println(IntegerToRoman.integerToRoman(2131));
+        System.out.println(IntegerToRoman.integerToRoman(2020));
     }
 }
