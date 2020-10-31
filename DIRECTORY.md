@@ -22,6 +22,7 @@
   * [HexaDecimalToBinary](https://github.com/TheAlgorithms/Java/blob/master/Conversions/HexaDecimalToBinary.java)
   * [HexaDecimalToDecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/HexaDecimalToDecimal.java)
   * [HexToOct](https://github.com/TheAlgorithms/Java/blob/master/Conversions/HexToOct.java)
+  * [IntegerToRoman](https://github.com/TheAlgorithms/Java/blob/master/Conversions/IntegerToRoman.java)
   * [OctalToDecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/OctalToDecimal.java)
   * [OctalToHexadecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/OctalToHexadecimal.java)
   * [RomanToInteger](https://github.com/TheAlgorithms/Java/blob/master/Conversions/RomanToInteger.java)
