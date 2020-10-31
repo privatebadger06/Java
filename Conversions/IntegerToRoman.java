@@ -37,7 +37,4 @@ public class IntegerToRoman {
     return builder.toString();
   }
 
-  public static void main(String[] args) {
-    System.out.println(IntegerToRoman.integerToRoman(2131));
-  }
 }
