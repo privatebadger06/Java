@@ -29,12 +29,11 @@ public class IntegerToRoman {
 
       num -= times * allArabianRomanNumbers[a];
     }
-
-    public static void main(String[] args) {
-        System.out.println(IntegerToRoman.integerToRoman(2020));
-    }
-
     return builder.toString();
   }
+
+      public static void main(String[] args) {
+          System.out.println(IntegerToRoman.integerToRoman(2020));
+      }
 
 }
